@@ -1,0 +1,44 @@
+C:\Users\User\Desktop\c# project(3)\BuyingHouseManagementSystem\App\bin\Debug\App.exe.config
+C:\Users\User\Desktop\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.LoginForm.resources
+C:\Users\User\Desktop\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\User\Desktop\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\c# project(3)\BuyingHouseManagementSystem\App\bin\Debug\App.exe
+C:\Users\User\Desktop\c# project(3)\BuyingHouseManagementSystem\App\bin\Debug\App.pdb
+C:\Users\User\Desktop\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.exe
+C:\Users\User\Desktop\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.pdb
+C:\Users\User\Desktop\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.ManagementForm.resources
+C:\Users\User\Desktop\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.ManageEmployees.resources
+C:\Users\User\Desktop\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.Orders.resources
+C:\Users\User\Desktop\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.Accounts.resources
+C:\Users\User\Desktop\C# PROJECT FINAL\c# project(3)\BuyingHouseManagementSystem\App\bin\Debug\App.exe.config
+C:\Users\User\Desktop\C# PROJECT FINAL\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.exe
+C:\Users\User\Desktop\C# PROJECT FINAL\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.pdb
+C:\Users\User\Desktop\C# PROJECT FINAL\c# project(3)\BuyingHouseManagementSystem\App\bin\Debug\App.exe
+C:\Users\User\Desktop\C# PROJECT FINAL\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C# PROJECT FINAL\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.Accounts.resources
+C:\Users\User\Desktop\C# PROJECT FINAL\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.LoginForm.resources
+C:\Users\User\Desktop\C# PROJECT FINAL\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.ManageEmployees.resources
+C:\Users\User\Desktop\C# PROJECT FINAL\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.ManagementForm.resources
+C:\Users\User\Desktop\C# PROJECT FINAL\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.Orders.resources
+C:\Users\User\Desktop\C# PROJECT FINAL\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\User\Desktop\C# PROJECT FINAL\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\C# PROJECT FINAL\c# project(3)\BuyingHouseManagementSystem\App\bin\Debug\App.pdb
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL - Copy\c# project(3)\BuyingHouseManagementSystem\App\bin\Debug\App.exe.config
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL - Copy\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.exe
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL - Copy\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.pdb
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\App\bin\Debug\App.exe.config
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.exe
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.pdb
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\App\bin\Debug\App.exe
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.Accounts.resources
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.LoginForm.resources
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.ManageEmployees.resources
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.ManagementForm.resources
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.Orders.resources
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\App\obj\Debug\App.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\App\bin\Debug\App.pdb
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\App\bin\Debug\Entity.dll
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\App\bin\Debug\Entity.pdb

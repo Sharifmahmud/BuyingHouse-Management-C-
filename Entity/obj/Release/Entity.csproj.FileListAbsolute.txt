@@ -1,0 +1,20 @@
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Entity\bin\Release\Entity.dll
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Entity\bin\Release\Entity.pdb
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Entity\obj\Release\Entity.dll
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Entity\obj\Release\Entity.pdb
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Entity\obj\Release\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Emon\Downloads\Buying House Management System(Corrected) G01\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Entity\bin\Release\Entity.dll
+C:\Users\Emon\Downloads\Buying House Management System(Corrected) G01\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Entity\bin\Release\Entity.pdb
+C:\Users\Emon\Downloads\Buying House Management System(Corrected) G01\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Entity\obj\Release\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Emon\Downloads\Buying House Management System(Corrected) G01\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Entity\obj\Release\Entity.dll
+C:\Users\Emon\Downloads\Buying House Management System(Corrected) G01\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Entity\obj\Release\Entity.pdb
+C:\Users\Emon\Desktop\Buying House Management System(Corrected) G01\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Entity\bin\Release\Entity.dll
+C:\Users\Emon\Desktop\Buying House Management System(Corrected) G01\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Entity\bin\Release\Entity.pdb
+C:\Users\Emon\Desktop\Buying House Management System(Corrected) G01\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Entity\obj\Release\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Emon\Desktop\Buying House Management System(Corrected) G01\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Entity\obj\Release\Entity.dll
+C:\Users\Emon\Desktop\Buying House Management System(Corrected) G01\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Entity\obj\Release\Entity.pdb
+D:\Buying House Management System(Corrected) G01\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Entity\bin\Release\Entity.dll
+D:\Buying House Management System(Corrected) G01\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Entity\bin\Release\Entity.pdb
+D:\Buying House Management System(Corrected) G01\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Entity\obj\Release\Entity.csprojResolveAssemblyReference.cache
+D:\Buying House Management System(Corrected) G01\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Entity\obj\Release\Entity.dll
+D:\Buying House Management System(Corrected) G01\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Entity\obj\Release\Entity.pdb

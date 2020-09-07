@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Repositories\obj\Debug\Repositories.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Repositories\bin\Debug\Repositories.dll
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Repositories\bin\Debug\Repositories.pdb
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Repositories\bin\Debug\Entity.dll
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Repositories\bin\Debug\Interfaces.dll
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Repositories\bin\Debug\Entity.pdb
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Repositories\bin\Debug\Interfaces.pdb
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Repositories\obj\Debug\Repositories.dll
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Repositories\obj\Debug\Repositories.pdb

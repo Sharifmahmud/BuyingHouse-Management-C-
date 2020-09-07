@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Entity\bin\Debug\Entity.dll
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Entity\bin\Debug\Entity.pdb
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Entity\obj\Debug\Entity.dll
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Entity\obj\Debug\Entity.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Interfaces\bin\Debug\Entity.dll
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Interfaces\bin\Debug\Entity.pdb
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\User\Desktop\C# projects\C# PROJECT FINAL -working now\c# project(3)\BuyingHouseManagementSystem\Interfaces\obj\Debug\Interfaces.pdb
